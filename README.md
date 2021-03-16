@@ -8,3 +8,7 @@
 **:link: Para acessar o Baralho de Signos, acesse o link a seguir --> (https://baralhodesignos-vitorgeovani.netlify.app/)**
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/af1c23a7-f051-44cc-b60e-6098093c8a9e/deploy-status)](https://app.netlify.com/sites/baralhodesignos-vitorgeovani/deploys)
+
+<p align="center">
+  <img src="/V.png">
+  </p>
